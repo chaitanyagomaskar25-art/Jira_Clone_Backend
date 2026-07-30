@@ -1,0 +1,149 @@
+{
+  "tickets": [
+    {
+      "id": "1",
+      "title": "Fix Login Bug",
+      "description": "Cannot login",
+      "status": "done",
+      "priority": "High",
+      "assignee": "John"
+    },
+    {
+      "id": "2",
+      "title": "Dark Mode",
+      "description": "Add dark moxxde",
+      "status": "done",
+      "priority": "Medium",
+      "assignee": "Alice"
+    },
+    {
+      "title": "snj",
+      "description": "s",
+      "priority": "medium",
+      "status": "in-progress",
+      "assignee": "djnnn",
+      "id": "RyuIwPYaTJE"
+    },
+    {
+      "title": "s",
+      "description": "fhjfsadbbbbbbbbsadscbvjkx",
+      "priority": "high",
+      "status": "todo",
+      "assignee": "fv",
+      "id": "CuJQcQLXZVw"
+    },
+    {
+      "title": "xsjjkjkASSSSSSSSSSS",
+      "description": "sSAAAAAAAAAAAAA",
+      "priority": "Medium",
+      "status": "done",
+      "assignee": "s",
+      "id": "f8hIZ_Qdg6w"
+    },
+    {
+      "title": "xsjjkjkASSSSSSSSSSS",
+      "description": "sSAAAAAAAAAAAAA",
+      "priority": "Medium",
+      "status": "progress",
+      "assignee": "sbdsssssssjhs",
+      "id": "f8hIZ_Qdg6w"
+    },
+    {
+      "title": "hjgfdjhddddddddsf",
+      "description": "djsjnvkjdssssssssssssdddddddddddddddddddddsnfjn",
+      "priority": "Medium",
+      "status": "todo",
+      "assignee": "sdnaaaaaaaaaaaaaaaaaaaaaaasdaaaaaaaaaa",
+      "id": "7SlskQvKrRo"
+    },
+    {
+      "title": "bnnnnnnnn",
+      "description": "bvvvvv",
+      "priority": "Medium",
+      "status": "todo",
+      "assignee": "vnvb",
+      "id": "IfOqAO0lWTM"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "ticketId": 1,
+      "author": "Admin",
+      "text": "Investigating this issue"
+    },
+    {
+      "ticketId": "f8hIZ_Qdg6w",
+      "author": "Current User",
+      "text": "fdg",
+      "id": "w55YTIRV5jg"
+    },
+    {
+      "ticketId": "f8hIZ_Qdg6w",
+      "author": "Current User",
+      "text": "fdsa",
+      "id": "1nvXUf3NoQI"
+    },
+    {
+      "ticketId": null,
+      "author": "Current User",
+      "text": "sndfghugnfc",
+      "id": "xTAffxcWDaU"
+    },
+    {
+      "ticketId": null,
+      "author": "Current User",
+      "text": "sdfg",
+      "id": "wu-QejO9frQ"
+    },
+    {
+      "ticketId": "2",
+      "author": "Current User",
+      "text": "ndfgfjdn",
+      "id": "w0oTixtLnZ4"
+    },
+    {
+      "ticketId": "RyuIwPYaTJE",
+      "author": "Current User",
+      "text": "fr",
+      "id": "mPdH0kIfIWs"
+    },
+    {
+      "ticketId": "CuJQcQLXZVw",
+      "author": "Current User",
+      "text": "d",
+      "id": "iV1vAahVvcI"
+    },
+    {
+      "ticketId": "2",
+      "author": "Current User",
+      "text": "sd",
+      "id": "RXS8vI-Qg0c"
+    },
+    {
+      "ticketId": "1",
+      "author": "Current User",
+      "text": "s",
+      "id": "bYTdQ0P6Als"
+    },
+    {
+      "ticketId": "1",
+      "author": "Current User",
+      "text": "sss",
+      "id": "iSZNzHKB78I"
+    },
+    {
+      "ticketId": "2",
+      "author": "Current User",
+      "text": "sdfgh",
+      "id": "NGteGWlhi28"
+    },
+    {
+      "ticketId": "f8hIZ_Qdg6w",
+      "author": "Current User",
+      "text": "adf",
+      "id": "ucbNd4__dy0"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
